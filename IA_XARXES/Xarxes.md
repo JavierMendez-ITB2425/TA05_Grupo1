@@ -27,8 +27,4 @@ Aruba es una plataforma web que combina IA para monitorear y gestionar entre dif
 
 
                                         
-`1. PUNTO
-NIGA
-SDJAOISD
-FJASIOFS
-IFAOJFOSA`
+||1. PUNTO||
