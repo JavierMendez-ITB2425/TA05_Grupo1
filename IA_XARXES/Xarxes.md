@@ -6,13 +6,13 @@
 
 [Línea invisible.]: # (El manual ha de ser clar, estructurat i accessible, escrit en format Markdown per a la seva publicació com a lloc web dins de GitHub.)
 
-# ARUBA NETWORK
+## ARUBA NETWORK
 
-## Que hace?
+### Que hace?
 
 Aruba es una plataforma web que combina IA para monitorear y gestionar entre diferentes redes dentro de una empresa o dentro de un rango en especifico.
 
-## Que ventajas te aporta?
+### Que ventajas te aporta?
 
 Normalmente se usa para monitoreo de redes, por tanto esta web te proporciona:
 
