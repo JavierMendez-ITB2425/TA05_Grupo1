@@ -12,9 +12,9 @@
 
 Aruba es una plataforma web que combina IA para monitorear y gestionar entre diferentes redes dentro de una empresa o dentro de un rango en especifico.
 
-### *Que ventajas te aporta? *
+### Que ventajas te aporta? 
 
-Normalmente se usa para monitoreo de redes, por tanto esta web te proporciona:
+*Normalmente se usa para monitoreo de redes, por tanto esta web te proporciona:*
 
 - el ancho de banda utilizado
 - el % de uso de aplicaciones o programas, junto con apartados para la reputacion de las webs, o si se ha usado para redes sociales u otras cosas
