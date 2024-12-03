@@ -7,7 +7,7 @@
 [Línea invisible.]: # (El manual ha de ser clar, estructurat i accessible, escrit en format Markdown per a la seva publicació com a lloc web dins de GitHub.)
 
 ## [ARUBA NETWORK](https://www.arubanetworks.com/es/)
-[](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAM9tiW3Eds5jaVXhl_ztQxKOgvvpIE6JvkQ&s)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAM9tiW3Eds5jaVXhl_ztQxKOgvvpIE6JvkQ&s)
 
 
 ### Que hace?
