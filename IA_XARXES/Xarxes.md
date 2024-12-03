@@ -6,7 +6,7 @@
 
 [Línea invisible.]: # (El manual ha de ser clar, estructurat i accessible, escrit en format Markdown per a la seva publicació com a lloc web dins de GitHub.)
 
-## ARUBA NETWORK
+[## ARUBA NETWORK]([url](https://www.arubanetworks.com/es/))
 
 ### Que hace?
 
@@ -26,5 +26,4 @@ Aruba es una plataforma web que combina IA para monitorear y gestionar entre dif
 - Seguridad y proteccion para prevenir amenazas
 
 
-                                        
-||1. PUNTO||
+
