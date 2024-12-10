@@ -1,4 +1,5 @@
 # Power Bi: IA en Analisis de Datos
+![](https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png)
 
 ## Introduccion
 
