@@ -10,7 +10,7 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAM9tiW3Eds5jaVXhl_ztQxKOgvvpIE6JvkQ&s)
 
 
-### Que hace?
+### Que es Aruba?
 
 Aruba es una plataforma web que combina IA para monitorear y gestionar entre diferentes redes dentro de una empresa o dentro de un rango en especifico.
 
@@ -34,6 +34,13 @@ Aruba es una plataforma web que combina IA para monitorear y gestionar entre dif
 ![](https://storage.googleapis.com/blogs-images-new/ciscoblogs/1/2022/10/DNAC-logo.png)
 
 
+### Que es Cisco DNA Center?
+Cisco DNA Center es una plataforma de gestión de redes basada en IA desarrollada por Cisco. Se suele usar para automatizar el diseño, la implementación y la operación de redes empresariales. 
+
 
 ## 3. [NetFlow Analyzer](https://www.manageengine.com/products/netflow/)
 ![](https://itsbusiness.net/wp-content/uploads/2019/07/kisspng-logo-manageengine-brand-netflow-5b527682402247.6998292115321309462627-1.png)
+
+
+### Que es NetFlow Analyzer?
+NetFlow Analyzer es una herramienta avanzada de monitoreo de tráfico de red que se especializa en la recopilación y análisis de flujos de datos de redes. Y usando la IA para diagnosticar problemas de rendimiento, ofrecer recomendaciones de uso para el ancho de banda y para identificar patrones anómalos de tráfico
