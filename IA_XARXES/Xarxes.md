@@ -30,6 +30,8 @@ Aruba es una plataforma web que combina IA para monitorear y gestionar entre dif
 
 ### Impacto al sector
 
+'' HOLa
+
 ### Impacto ambiental
 
 ### Propuestas para minimizar los impactos ambientales
