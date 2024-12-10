@@ -1,5 +1,5 @@
 # Power Bi: IA en Analisis de Datos
-<img width="102" alt="image_ff55d03003 (1)" src="https://github.com/user-attachments/assets/3dfa756d-40b8-46c2-bfd9-9a88cb65b1d4">
+<img width="250" alt="logo" src="https://github.com/user-attachments/assets/3dfa756d-40b8-46c2-bfd9-9a88cb65b1d4">
 
 ## Introduccion
 
