@@ -28,4 +28,10 @@ Aruba es una plataforma web que combina IA para monitorear y gestionar entre dif
 - Seguridad y proteccion para prevenir amenazas
 
 
+### Impacto al sector
+
+### Impacto ambiental
+
+### Propuestas para minimizar los impactos ambientales
+
 
