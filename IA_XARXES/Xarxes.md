@@ -12,7 +12,7 @@
 
 ### Que es Aruba?
 
-Aruba es una plataforma web que combina IA para monitorear y gestionar entre diferentes redes dentro de una empresa o dentro de un rango en especifico.
+**Aruba** es una plataforma web que combina IA para monitorear y gestionar entre diferentes redes dentro de una empresa o dentro de un rango en especifico.
 
 ### Que ventajas te aporta? 
 
@@ -30,12 +30,15 @@ Aruba es una plataforma web que combina IA para monitorear y gestionar entre dif
 
 ### Es realmente sostenible el uso de la IA en este programa?
 
+Al reducir la necesidad de personal y mejorar la eficiencia operativa se podria considerar rentable, pero su impacto ambiental puede ser considerable por el consumo energético de la infraestructura. Para minimizar este impacto, es esencial emplear centros de datos energéticamente eficientes y utilizar fuentes de energía renovable.
+
+
 ## 2. [Cisco DNA Center](https://www.cisco.com/site/mx/es/products/networking/dna-center-platform/index.html)
 ![](https://storage.googleapis.com/blogs-images-new/ciscoblogs/1/2022/10/DNAC-logo.png)
 
 
 ### Que es Cisco DNA Center?
-Cisco DNA Center es una plataforma de gestión de redes basada en IA desarrollada por Cisco. Se suele usar para automatizar el diseño, la implementación y la operación de redes empresariales. 
+**Cisco DNA Center** es una plataforma de gestión de redes basada en IA desarrollada por **Cisco**. Se suele usar para automatizar el diseño, la implementación y la operación de redes empresariales. 
 
 
 ## 3. [NetFlow Analyzer](https://www.manageengine.com/products/netflow/)
@@ -43,4 +46,4 @@ Cisco DNA Center es una plataforma de gestión de redes basada en IA desarrollad
 
 
 ### Que es NetFlow Analyzer?
-NetFlow Analyzer es una herramienta avanzada de monitoreo de tráfico de red que se especializa en la recopilación y análisis de flujos de datos de redes. Y usando la IA para diagnosticar problemas de rendimiento, ofrecer recomendaciones de uso para el ancho de banda y para identificar patrones anómalos de tráfico
+**NetFlow Analyzer** es una herramienta avanzada de monitoreo de tráfico de red que se especializa en la recopilación y análisis de flujos de datos de redes. Y usando la IA para diagnosticar problemas de rendimiento, ofrecer recomendaciones de uso para el ancho de banda y para identificar patrones anómalos de tráfico
