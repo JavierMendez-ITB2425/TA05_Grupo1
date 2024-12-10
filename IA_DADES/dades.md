@@ -51,6 +51,18 @@ los datos en niveles más detallados, proporcionando una visión más
 profunda del rendimiento del negocio.
 ## ¿Como funciona?
 
+Power BI utiliza un enfoque de extracción, transformación y carga (ETL) para procesar y visualizar los datos. A continuación, se presenta una descripción general de los pasos involucrados en el proceso:
+
+1. **Extracción**: Power BI se conecta a las fuentes de datos seleccionadas, como bases de datos o archivos, y extrae los datos relevantes para su análisis.
+
+2. **Transformación**: Los datos extraídos pueden requerir ciertas transformaciones para ser útiles. Power BI ofrece una amplia gama de herramientas para limpiar, combinar y dar forma a los datos de acuerdo con tus necesidades.
+
+3. **Carga**: Una vez que los datos han sido transformados, se cargan en el modelo de datos de Power BI. Aquí, los datos se organizan en tablas y relaciones para facilitar el análisis posterior.
+
+4. **Visualización**: Con los datos cargados, puedes comenzar a crear visualizaciones interactivas en Power BI Desktop. Puedes elegir entre una variedad de gráficos, tablas y otros elementos visuales para representar los datos de manera efectiva.
+
+5. **Publicación y consumo**: Una vez que hayas diseñado tus informes y paneles en Power BI Desktop, puedes publicarlos en Power BI Service para compartirlos con otros usuarios. Estos informes se pueden acceder y consumir a través de la web, la aplicación móvil de Power BI o se pueden integrar en otras aplicaciones.
+
 ## Las aplicaciones de la IA.
 
 ## Impacto al sector.
