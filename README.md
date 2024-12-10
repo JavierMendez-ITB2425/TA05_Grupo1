@@ -1,16 +1,18 @@
 # TA05_Grupo1
 
-### Introduccio
+## Introduccion
 
-### Que fa?
+### Power BI es una colección de servicios de software, aplicaciones y conectores que funcionan conjuntamente para convertir orígenes de datos sin relación entre sí en información coherente, interactiva y atractiva visualmente. Sus datos podrían ser una hoja de cálculo de Excel o una colección de almacenes de datos híbridos locales y basados en la nube. Power BI permite conectarse con facilidad a los orígenes de datos, visualizar y descubrir qué es importante y compartirlo con cualquiera o con todos los usuarios que desee.
 
-### Com funciona?
+## ¿Que hace?
 
-### Les aplicacions de la IA.
+## ¿Como funciona?
 
-### Impacte al sector.
+## Las aplicaciones de la IA.
 
-### Impacte ambiental.
+## Impacto al sector.
 
-### Propostes per minimitzar els impactes ambientals.
+## Impacto ambiental.
+
+## Propuestas para minimitzar los impactos ambientales.
 
