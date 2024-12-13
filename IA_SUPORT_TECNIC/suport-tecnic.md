@@ -11,7 +11,7 @@ A continuación veremos IAs que nos servirán para eficientizar el soporte infor
 ### FreshDesk:
 <img src="https://github.com/user-attachments/assets/1062974c-f043-4f28-b23d-60b32c92ae7f" width="400" height="200"/>
 
-- FreshDesk es una herramienta diseñada para HelpDesk la cual tiene un servicio gratuito (con funcionalidades limitadas), esta versión gratuita va como anillo al dedo para empresas Pyme que recién están comenzando en el sector.
+- FreshDesk es una herramienta diseñada para HelpDesk la cual tiene un **servicio gratuito** (con funcionalidades limitadas), esta versión gratuita va como anillo al dedo para empresas Pyme que recién están comenzando en el sector.
 
 > Página web oficial: **(https://www.freshworks.com/es/freshdesk/)**
 
@@ -22,7 +22,7 @@ A continuación veremos IAs que nos servirán para eficientizar el soporte infor
   - Autodetección de idiomas en tickets.
   - Centralización de los tickets. 
   - Personalización del asistente.
-Cabe destacar que esta herramienta no es gratuita, ya que cuesta 19 $ mensuales (aunque cabe destacar que contiene una prueba gratuita de 14 días).
+Cabe destacar que esta herramienta no es gratuita, ya que cuesta **19 $ mensuales** (aunque cabe destacar que contiene una prueba **gratuita de 14 días**).
 > 
   > Página web oficial: **(https://www.zendesk.es/)**
 
@@ -36,16 +36,35 @@ Esta plataforma es de pago (**99 $ al mes**) pero cuenta con una prueba **gratui
   > Página web oficial: **(https://trengo.com/es)**
 
 ## Impacte en el sector:
-Ahora que hemos visto diversas herramientas y sus principales funcionalidades en el apartado anterior veremos el impacto en el sector informático de cada una de las herramientas anteriormente mencionadas.
+Ahora que hemos visto diversas herramientas y sus principales funcionalidades veremos el impacto en el sector informático de cada una de las herramientas anteriormente mencionadas.
 
 ### FreshDesk:
-El impacto de FreshDesk en el sector 
+FreshDesk ha tenido un impacto importante en el sector de las inteligencias artificiales de soporte técnico siendo a día de hoy uno de los software más exitosos, fue pionero en implementar un **fácil seguimiento de las conversaciones** desde todas las plataformas una característica que sería copiada por sus competidores.
+
+### Zendesk:
+Zendesk ha sido otro software que también ha tenido un impacto importante en su ámbito, siendo una herramienta que se ha caracterizado siempre por su característica de **soporte omnicanal**, esta característica fue estrella en su lanzamiento y a día de hoy su característica más relevante.
+
+### Trengo:
+Cuando hablamos de impacto en el sector de las inteligencias artificiales de soporte técnico tenemos que hablar de Trengo una de las herramientas más útiles en el mercado que desde su creación se ha caracterizado por su **gran flexibilidad** con sus clientes.
 
 ## Impacto ambiental:
+- **Impacto Negativo:**
+    - Consumo abusivo de recursos naturales
+    - Generación de residuos electrónicos
+    - Contaminación del aire y agua
 
+- **Impacto Positivo:**
+    - Automatización de procesos
+    - Aumento de productividad
+    - Ayuda instantánea en cualquier lugar
 
 ## Propuestas para minimizar el impacto medioambiental:
+- Propuestas:
+    - Desarollar algoritmos de IA más eficientes
+    - Utilizar fuentes de energía más renovables
+    - Mejorar la eficiencia energética en los centros de datos
 
-
-Webgrafía:
+### Webgrafía:
 https://trengo.com/es/blog/best-ai-customer-service-tools
+https://www.telefonica.com/es/sala-comunicacion/blog/afecta-tecnologia-medioambiente/
+
