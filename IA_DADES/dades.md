@@ -74,7 +74,7 @@ Power BI utiliza un enfoque de extracción, transformación y carga (ETL) para p
 
     **[Fuente](https://blog.beservices.es/blog/que-es-power-bi-como-funciona-solucion-business-intelligence)**
    
-    ![](./img/logo_beservice.png)
+    ![](./img/logo_beservices.png)
 
 ## Las aplicaciones de la IA.
 En el sector financiero, la IA se utiliza para predecir movimientos del mercado y gestionar riesgos, permitiendo a las empresas tomar decisiones informadas sobre inversiones y estrategias. En el ámbito de la salud, por ejemplo, los algoritmos de inteligencia artificial analizan grandes cantidades de datos médicos para ayudar en el diagnóstico temprano de enfermedades y en el desarrollo de tratamientos personalizados.
