@@ -1,5 +1,5 @@
-# Power Bi: IA en Analisis de Datos
-<img width="250" alt="logo" src="https://github.com/user-attachments/assets/3dfa756d-40b8-46c2-bfd9-9a88cb65b1d4">
+# Power Bi: IA en Analisis de Datos  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png)
 
 ## Introduccion
 
@@ -8,8 +8,7 @@ Power BI se compone de una serie de servicios de software, aplicaciones y conect
 
 [Fuente](https://learn.microsoft.com/es-es/power-bi/fundamentals/power-bi-overview)
 
-<img width="250" alt="logo" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Mlearn-VL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1672&qlt=100&fit=constrain"> 
-
+![|250](https://sylvainjacquemard.blog/wp-content/uploads/2023/07/microsoftlearning.png)
 ## Beneficios
 - **Integración con Microsoft**: Power BI se integra a la perfección con otras
 herramientas de Microsoft, como Excel, Azure y SQL Server, lo que
@@ -58,8 +57,7 @@ profunda del rendimiento del negocio.
 
 **[Fuente](https://www.pontia.tech/wp-content/uploads/2024/01/guia-power-bi.pdf)**
 
-<img width="250" alt="logo" src="https://www.pontia.tech/wp-content/uploads/2022/10/pontiacuadro-1024x578.webp"> 
-
+![](https://pontia.tech/wp-content/uploads/2022/08/cropped-Isotipo-principal.webp)
 ## ¿Como funciona?
 
 Power BI utiliza un enfoque de extracción, transformación y carga (ETL) para procesar y visualizar los datos. A continuación, se presenta una descripción general de los pasos involucrados en el proceso:
@@ -76,7 +74,7 @@ Power BI utiliza un enfoque de extracción, transformación y carga (ETL) para p
 
     **[Fuente](https://blog.beservices.es/blog/que-es-power-bi-como-funciona-solucion-business-intelligence)**
    
-    <img width="250" alt="logo" src="https://blog.beservices.es/hs-fs/hubfs/logo-completo-centrado-351x365-positivo-1.png?width=349&height=52&name=logo-completo-centrado-351x365-positivo-1.png">
+    ![](https://blog.beservices.es/hs-fs/hubfs/logo-completo-centrado-351x365-positivo-1.png?width=349&height=52&name=logo-completo-centrado-351x365-positivo-1.png)
 
 ## Las aplicaciones de la IA.
 En el sector financiero, la IA se utiliza para predecir movimientos del mercado y gestionar riesgos, permitiendo a las empresas tomar decisiones informadas sobre inversiones y estrategias. En el ámbito de la salud, por ejemplo, los algoritmos de inteligencia artificial analizan grandes cantidades de datos médicos para ayudar en el diagnóstico temprano de enfermedades y en el desarrollo de tratamientos personalizados.
@@ -87,8 +85,7 @@ Incluso en el campo de los recursos humanos, la IA está ayudando a las organiza
 
 [Funte](https://news.sap.com/spain/2024/09/el-poder-de-la-ia-en-el-analisis-de-datos/)
 
-<img width="250" alt="logo" src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg">
-
+![](https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg)
 
 
 ## Impacto al sector.
@@ -98,13 +95,28 @@ No solo se agiliza el proceso de análisis con esto, sino que también facilita 
 
 [Funte](https://news.sap.com/spain/2024/09/el-poder-de-la-ia-en-el-analisis-de-datos/)
 
-<img width="250" alt="logo" src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg">
+![](https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg)
 
-https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg
 ## Impacto ambiental.
 El aumento de los centros de datos vinculados a la Inteligencia Artificial también influye directamente en las emisiones de carbono a nivel mundial. En la actualidad, se calcula que los centros de datos representan el 1% de las emisiones globales de gases contaminantes. Conforme la Inteligencia Artificial continúa su expansión, este porcentaje podría incrementarse significativamente, lo que resalta la imperiosa necesidad de descubrir fuentes de energía más limpias y eficaces.
 
 Uno de los retos radica en que la mayoría de la energía que estos centros emplean proviene de recursos no renovables, tales como el carbón y el gas natural. Esto intensifica el problema del calentamiento global y contradice los objetivos de sostenibilidad establecidos por numerosas compañías tecnológicas.
 
-## Propuestas para minimitzar los impactos ambientales.
+[Fuente](https://perfectaenergia.com/impacto-ambiental-de-la-inteligencia-artificial/)
 
+![|100](https://perfectaenergia.com/wp-content/uploads/2023/03/Logo-perfeta-energia_white.svg)
+
+## Propuestas para minimitzar los impactos ambientales.
+Dado el creciente coste medioambiental del desarrollo y despliegue de modelos de IA, las empresas deben aplicar estrategias y adaptar técnicas para reducir su huella. En la siguiente subsección, analizamos algunas de las soluciones disponibles para avanzar hacia una IA más sostenible.
+
+Una de las estrategias más obvias para reducir la huella de carbono de los modelos de IA es aumentar su eficiencia. Esto significa lograr el mismo nivel de precisión con modelos más pequeños y menos complejos. La eficacia puede lograrse a nivel de hardware, como en el caso de los microchips que siguen la Ley de Moore, que sugiere que los transistores se duplican cada dos años. Aunque algunos piensan que esta ley terminará hacia 2025, tecnologías como la computación cuántica podrían ser esenciales para la eficiencia.
+
+En el ámbito del software, los investigadores están desarrollando nuevas técnicas para hacer que los modelos de IA sean más eficientes. Entre estas se encuentran la poda de modelos, la cuantización y la destilación de conocimientos.
+
+Otra solución es invertir en energías renovables, como los paneles solares y aerogeneradores, que producen electricidad sin emitir dióxido de carbono. Empresas como Google, Microsoft y Meta son grandes inversores en energía limpia, aunque el crecimiento de estas fuentes aún no es suficiente para compensar el aumento del uso de IA.
+
+Finalmente, aprovechar soluciones basadas en la nube permite a las empresas de IA entrenar y desplegar modelos de manera más rentable y eficiente, contribuyendo así a reducir el impacto medioambiental.
+
+[Fuente](https://www.datacamp.com/es/blog/sustainable-ai?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
+
+![](https://cdn.icon-icons.com/icons2/3914/PNG/512/datacamp_logo_icon_249069.png)
