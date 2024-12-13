@@ -5,6 +5,10 @@
 
 Power BI es una colección de servicios de software, aplicaciones y conectores que funcionan conjuntamente para convertir orígenes de datos sin relación entre sí en información coherente, interactiva y atractiva visualmente. Sus datos podrían ser una hoja de cálculo de Excel o una colección de almacenes de datos híbridos locales y basados en la nube. Power BI permite conectarse con facilidad a los orígenes de datos, visualizar y descubrir qué es importante y compartirlo con cualquiera o con todos los usuarios que desee.
 
+[Fuente](https://learn.microsoft.com/es-es/power-bi/fundamentals/power-bi-overview)
+
+<img width="250" alt="logo" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Mlearn-VL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1672&qlt=100&fit=constrain"> 
+
 ## Beneficios
 - **Integración con Microsoft**: Power BI se integra a la perfección con otras
 herramientas de Microsoft, como Excel, Azure y SQL Server, lo que
@@ -50,6 +54,11 @@ seleccionar elementos en los gráficos.
 - **Capacidad de Drill Down**: Esta función permite a los usuarios desglosar
 los datos en niveles más detallados, proporcionando una visión más
 profunda del rendimiento del negocio.
+
+**[Fuente](https://www.pontia.tech/wp-content/uploads/2024/01/guia-power-bi.pdf)**
+
+<img width="250" alt="logo" src="https://www.pontia.tech/wp-content/uploads/2022/10/pontiacuadro-1024x578.webp"> 
+
 ## ¿Como funciona?
 
 Power BI utiliza un enfoque de extracción, transformación y carga (ETL) para procesar y visualizar los datos. A continuación, se presenta una descripción general de los pasos involucrados en el proceso:
@@ -63,6 +72,10 @@ Power BI utiliza un enfoque de extracción, transformación y carga (ETL) para p
 4. **Visualización**: Con los datos cargados, puedes comenzar a crear visualizaciones interactivas en Power BI Desktop. Puedes elegir entre una variedad de gráficos, tablas y otros elementos visuales para representar los datos de manera efectiva.
 
 5. **Publicación y consumo**: Una vez que hayas diseñado tus informes y paneles en Power BI Desktop, puedes publicarlos en Power BI Service para compartirlos con otros usuarios. Estos informes se pueden acceder y consumir a través de la web, la aplicación móvil de Power BI o se pueden integrar en otras aplicaciones.
+
+    **[Fuente](https://blog.beservices.es/blog/que-es-power-bi-como-funciona-solucion-business-intelligence)**
+   
+    <img width="250" alt="logo" src="https://blog.beservices.es/hs-fs/hubfs/logo-completo-centrado-351x365-positivo-1.png?width=349&height=52&name=logo-completo-centrado-351x365-positivo-1.png">
 
 ## Las aplicaciones de la IA.
 
