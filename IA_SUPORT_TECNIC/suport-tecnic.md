@@ -1,5 +1,3 @@
-<<<<<<< main
-=======
 # IA-SOPORTE-TECNICO
 El soporte técnico ha sido uno de los trabajos más realizados en el mundo de la informática desde su creación, esto debido a su gran importancia en este campo.
 Y hoy en día su importancia no hace nada más que crecer debido a la implementación de herramientas informáticas en la vida cuotidiana y la creciente digitalización del mundo.
@@ -69,5 +67,5 @@ Cuando hablamos de impacto en el sector de las inteligencias artificiales de sop
 ### Webgrafía:
 https://trengo.com/es/blog/best-ai-customer-service-tools
 https://www.telefonica.com/es/sala-comunicacion/blog/afecta-tecnologia-medioambiente/
->>>>>>> Aritz_branch
+
 
