@@ -1,5 +1,5 @@
 # TA05_Grupo1
-## 1. [IA DADES](TA05_Grupo1/IA_DADES/dades.md)
+## 1. [IA DADES](/IA_DADES/dades.md)
 
 ## IA DESENVOLUPAMENT
 
