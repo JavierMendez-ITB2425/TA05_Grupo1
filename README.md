@@ -1,4 +1,4 @@
-# TA05_Grupo1
+
 ## 1. [IA DADES](/IA_DADES/dades.md)
 
 ## IA DESENVOLUPAMENT
