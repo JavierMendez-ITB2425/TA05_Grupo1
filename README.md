@@ -1,2 +1,10 @@
 # TA05_Grupo1
-## Los mejores
+## IA DADES
+
+## IA DESENVOLUPAMENT
+
+## IA SEGURETAT
+
+## IA SUPORT TECNIC
+
+## IA XARXES
