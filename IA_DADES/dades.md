@@ -3,7 +3,8 @@
 
 ## Introduccion
 
-Power BI es una colección de servicios de software, aplicaciones y conectores que funcionan conjuntamente para convertir orígenes de datos sin relación entre sí en información coherente, interactiva y atractiva visualmente. Sus datos podrían ser una hoja de cálculo de Excel o una colección de almacenes de datos híbridos locales y basados en la nube. Power BI permite conectarse con facilidad a los orígenes de datos, visualizar y descubrir qué es importante y compartirlo con cualquiera o con todos los usuarios que desee.
+Power BI se compone de una serie de servicios de software, aplicaciones y conectores que trabajan en conjunto para transformar fuentes de datos sin conexión entre ellas en información consistente, interactiva y visualmente atractiva. Sus datos podrían provenir de una hoja de cálculo en Excel o de una serie de almacenes de información híbridos, tanto locales como en la nube. Power BI facilita la conexión a los fuentes de datos, la visualización y el descubrimiento de lo que es relevante, y su compartir con cualquiera o con todos los usuarios que quieras.
+
 
 [Fuente](https://learn.microsoft.com/es-es/power-bi/fundamentals/power-bi-overview)
 
@@ -78,10 +79,32 @@ Power BI utiliza un enfoque de extracción, transformación y carga (ETL) para p
     <img width="250" alt="logo" src="https://blog.beservices.es/hs-fs/hubfs/logo-completo-centrado-351x365-positivo-1.png?width=349&height=52&name=logo-completo-centrado-351x365-positivo-1.png">
 
 ## Las aplicaciones de la IA.
+En el sector financiero, la IA se utiliza para predecir movimientos del mercado y gestionar riesgos, permitiendo a las empresas tomar decisiones informadas sobre inversiones y estrategias. En el ámbito de la salud, por ejemplo, los algoritmos de inteligencia artificial analizan grandes cantidades de datos médicos para ayudar en el diagnóstico temprano de enfermedades y en el desarrollo de tratamientos personalizados.
+
+La IA juega un papel clave en la segmentación de audiencias y la personalización de campañas publicitarias. Al analizar datos de comportamiento de los usuarios, las empresas pueden crear mensajes más específicos y relevantes, aumentando la efectividad de sus estrategias de marketing.
+
+Incluso en el campo de los recursos humanos, la IA está ayudando a las organizaciones a analizar currículums, identificar candidatos adecuados y optimizar la gestión del talento.
+
+[Funte](https://news.sap.com/spain/2024/09/el-poder-de-la-ia-en-el-analisis-de-datos/)
+
+<img width="250" alt="logo" src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg">
+
+
 
 ## Impacto al sector.
+La inteligencia artificial ha transformado nuestro enfoque en el análisis de información. En vez de confiar exclusivamente en técnicas convencionales, que frecuentemente demandan un análisis manual y riguroso, la Inteligencia Artificial incorpora algoritmos sofisticados que pueden manejar grandes cantidades de información en fracciones de segundo.
 
+No solo se agiliza el proceso de análisis con esto, sino que también facilita la identificación de patrones, tendencias y irregularidades que podrían pasar inadvertidas para la vista humana.
+
+[Funte](https://news.sap.com/spain/2024/09/el-poder-de-la-ia-en-el-analisis-de-datos/)
+
+<img width="250" alt="logo" src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg">
+
+https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg
 ## Impacto ambiental.
+El aumento de los centros de datos vinculados a la Inteligencia Artificial también influye directamente en las emisiones de carbono a nivel mundial. En la actualidad, se calcula que los centros de datos representan el 1% de las emisiones globales de gases contaminantes. Conforme la Inteligencia Artificial continúa su expansión, este porcentaje podría incrementarse significativamente, lo que resalta la imperiosa necesidad de descubrir fuentes de energía más limpias y eficaces.
+
+Uno de los retos radica en que la mayoría de la energía que estos centros emplean proviene de recursos no renovables, tales como el carbón y el gas natural. Esto intensifica el problema del calentamiento global y contradice los objetivos de sostenibilidad establecidos por numerosas compañías tecnológicas.
 
 ## Propuestas para minimitzar los impactos ambientales.
 
