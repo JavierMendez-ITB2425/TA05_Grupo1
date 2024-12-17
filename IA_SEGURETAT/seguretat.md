@@ -1,4 +1,4 @@
-#IA-SEGURETAT
+# IA-SEGURETAT
 La seguretat ha estat sempre un àmbit on l'ésser humà ha prestat molta atenció des dels inicis de la nostra espècie. Avui dia, amb l’arribada de la informàtica, s’ha creat una nova branca dins de la seguretat: la seguretat informàtica. Cada vegada estem digitalitzant més el nostre món, i la informació que abans estava en paper ara es troba al núvol. Per aquest motiu, moltes empreses i organitzacions estan utilitzant els avantatges de la intel·ligència artificial per millorar la seguretat de la seva informació, ja que les dades ho són tot.
 
-##IA's
+## IA's
