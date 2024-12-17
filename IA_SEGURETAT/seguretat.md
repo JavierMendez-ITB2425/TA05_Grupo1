@@ -26,7 +26,8 @@ La **intel·ligència artificial (IA)** ha emergit com una solució potent per m
 
 ---
 
-# **Darktrace**
+# [**Darktrace**](https://www.darktrace.com)
+
 
 <img src="img/darktrace.png" alt="Darktrace Logo" width="250"/>
 
@@ -75,9 +76,9 @@ Tot i que no hi ha informació directa sobre l'impacte mediambiental de Darktrac
 
 ---
 
-# **IBM Watson for Cybersecurity**
+# [**IBM Watson**](https://www.ibm.com/watson)
 
-<img src="img/IBM.png" alt="Darktrace Logo" width="170"/>
+<img src="img/IBM.png" alt="Darktrace Logo" width="137"/>
 
 
 
