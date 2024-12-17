@@ -6,7 +6,7 @@
 Power BI se compone de una serie de servicios de software, aplicaciones y conectores que trabajan en conjunto para transformar fuentes de datos sin conexión entre ellas en información consistente, interactiva y visualmente atractiva. Sus datos podrían provenir de una hoja de cálculo en Excel o de una serie de almacenes de información híbridos, tanto locales como en la nube. Power BI facilita la conexión a los fuentes de datos, la visualización y el descubrimiento de lo que es relevante, y su compartir con cualquiera o con todos los usuarios que quieras.
 
 
-[Fuente](https://learn.microsoft.com/es-es/power-bi/fundamentals/power-bi-overview)
+**[Fuente](https://learn.microsoft.com/es-es/power-bi/fundamentals/power-bi-overview)**
 
 ![](./img/logo_microsoft.png)
 ## Beneficios
@@ -83,7 +83,7 @@ La IA juega un papel clave en la segmentación de audiencias y la personalizaci�
 
 Incluso en el campo de los recursos humanos, la IA está ayudando a las organizaciones a analizar currículums, identificar candidatos adecuados y optimizar la gestión del talento.
 
-[Funte](https://news.sap.com/spain/2024/09/el-poder-de-la-ia-en-el-analisis-de-datos/)
+**[Fuente](https://news.sap.com/spain/2024/09/el-poder-de-la-ia-en-el-analisis-de-datos/)**
 
 ![](./img/logo_sap.png)
 
@@ -93,7 +93,7 @@ La inteligencia artificial ha transformado nuestro enfoque en el análisis de in
 
 No solo se agiliza el proceso de análisis con esto, sino que también facilita la identificación de patrones, tendencias y irregularidades que podrían pasar inadvertidas para la vista humana.
 
-[Funte](https://news.sap.com/spain/2024/09/el-poder-de-la-ia-en-el-analisis-de-datos/)
+**[Fuente](https://news.sap.com/spain/2024/09/el-poder-de-la-ia-en-el-analisis-de-datos/)**
 
 ![](./img/logo_sap.png)
 
@@ -102,9 +102,9 @@ El aumento de los centros de datos vinculados a la Inteligencia Artificial tambi
 
 Uno de los retos radica en que la mayoría de la energía que estos centros emplean proviene de recursos no renovables, tales como el carbón y el gas natural. Esto intensifica el problema del calentamiento global y contradice los objetivos de sostenibilidad establecidos por numerosas compañías tecnológicas.
 
-[Fuente](https://perfectaenergia.com/impacto-ambiental-de-la-inteligencia-artificial/)
+**[Fuente](https://perfectaenergia.com/impacto-ambiental-de-la-inteligencia-artificial/)**
 
-![|100](./img/Logo_perfeta_energia.png)
+![](./img/Logo_perfeta_energia.png)
 
 ## Propuestas para minimitzar los impactos ambientales.
 Dado el creciente coste medioambiental del desarrollo y despliegue de modelos de IA, las empresas deben aplicar estrategias y adaptar técnicas para reducir su huella. En la siguiente subsección, analizamos algunas de las soluciones disponibles para avanzar hacia una IA más sostenible.
@@ -117,6 +117,6 @@ Otra solución es invertir en energías renovables, como los paneles solares y a
 
 Finalmente, aprovechar soluciones basadas en la nube permite a las empresas de IA entrenar y desplegar modelos de manera más rentable y eficiente, contribuyendo así a reducir el impacto medioambiental.
 
-[Fuente](https://www.datacamp.com/es/blog/sustainable-ai?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
+**[Fuente](https://www.datacamp.com/es/blog/sustainable-ai?dc_referrer=https%3A%2F%2Fwww.google.com%2F)**
 
 ![](./img/logo.png)
