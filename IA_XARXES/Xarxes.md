@@ -16,7 +16,7 @@
 
 ### ¿Qué ventajas aporta Aruba?
 
-*Normalmente los usuarios lo usan para monitoreo de redes, por tanto, esta web te proporciona:*
+> *Normalmente los usuarios lo usan para monitoreo de redes, por tanto, esta web te proporciona:*
 
 - El ancho de banda utilizado.
 - El % de uso de aplicaciones o programas, junto con apartados para la reputación de las webs, o si se ha usado para redes sociales u otras cosas.
@@ -38,7 +38,7 @@
 
 ### ¿Qué ventajas aporta Cisco DNA Center?
 
-*Los usuarios suelen usarlo para la optimización y automatización de redes, por lo tanto, te proporciona:*
+> *Los usuarios suelen usarlo para la optimización y automatización de redes, por lo tanto, te proporciona:*
 
 - Automatización de políticas de red.
 - Optimización del rendimiento de aplicaciones.
@@ -57,7 +57,7 @@
 
 ### ¿Qué ventajas aporta NetFlow Analyzer?
 
-*Las empresas que buscan optimizar su red y asegurar un rendimiento continuo. Las ventajas incluyen:*
+> *Las empresas que buscan optimizar su red y asegurar un rendimiento continuo. Las ventajas incluyen:*
 
 - Monitoreo de tráfico en tiempo real.
 - Diagnóstico y análisis de tráfico.
