@@ -83,7 +83,7 @@ La IA juega un papel clave en la segmentación de audiencias y la personalizaci�
 
 Incluso en el campo de los recursos humanos, la IA está ayudando a las organizaciones a analizar currículums, identificar candidatos adecuados y optimizar la gestión del talento.
 
-[Funte](https://news.sap.com/spain/2024/09/el-poder-de-la-ia-en-el-analisis-de-datos/)
+[Fuente](https://news.sap.com/spain/2024/09/el-poder-de-la-ia-en-el-analisis-de-datos/)
 
 ![](./img/logo_sap.png)
 
