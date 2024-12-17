@@ -32,25 +32,41 @@ La **intel·ligència artificial (IA)** ha emergit com una solució potent per m
 
 
 ### **Les aplicacions de la IA**  
-**Darktrace** és una solució de seguretat basada en **intel·ligència artificial** que utilitza **algorismes d’aprenentatge automàtic** per detectar comportaments anòmals dins de les xarxes. Respon automàticament davant d'amenaces com el **ransomware** o els **atacs zero-day**.
+**Darktrace** és una solució de seguretat basada en **intel·ligència artificial** utilitza **algorismes d’aprenentatge automàtic** per detectar comportaments anòmals dins de les xarxes. Respon automàticament davant d'amenaces com el **ransomware** o els **atacs zero-day**.
+
+Es caracteritza per **intentar imitar el sistema immunològic humà**. El que ho ha aportat com una de les maneres més **innovadores** i **referencials** dins del sector.
  
 - Detectar comportaments sospitosos dins de xarxes corporatives.  
 - Monitoritzar en temps real el trànsit de xarxes internes.  
 - Automatitzar respostes davant **ciberatacs**.  
 - Identificar atacs de tipus **ransomware** i **phishing** abans que es propaguin.
 
-> *“Darktrace imita el sistema immunològic humà per defensar-se d’amenaces internes i externes.”*
+> "Recent advancements in generative AI and LLMs are an important addition to the growing arsenal of AI techniques that will transform cybersecurity."
+-Jack Stockdale, DarkTrace Tecnology Director.
 
 ### **Impacte al sector**  
-- **Major protecció** contra ciberamenaces complexes.  
-- **Reducció de temps** en la detecció i resposta a incidents.  
-- Creixement de l’adopció d’IA en petites i grans empreses.  
-- Ajuda a prevenir pèrdues econòmiques derivades d’atacs.  
+**Darktrace** ha tingut un impacte significatiu en la ciberseguretat, **revolucionant la protecció de les xarxes i sistemes empresarials** contra les amenaces cibernètiques. Ha **establert nous estàndards** en la detecció i resposta a amenaces, utilitzant la intel·ligència artificial i **l'aprenentatge automàtic per identificar i neutralitzar riscos** en temps real.
+
+ Ha demostrat ser eficaç en la **protecció d'infraestructures crítiques** com els sistemes de trànsit aeri, energia i subministrament d'aigua. La seva tecnologia ha **reduït el risc d'atacs cibernètics**, permetent a les empreses reduir costos de seguretat i augmentar la confiança en la protecció dels seus actius.
+ 
+  Darktrace també ha millorat la **col·laboració entre els equips de seguretat** i TI, promovent una resposta més ràpida a les amenaces. Finalment, ha **impulsat la innovació en la ciberseguretat**, desenvolupant noves tecnologies per afrontar amenaces emergents.
+
+  #### Impacte en els sectors específics
+
+- **Sector financer**: Darktrace ha estat adoptada per nombrosos bancs i institucions financeres per protegir els seus sistemes i xarxes contra les amenaces cibernètiques.
+  
+- **Sector de la salut**: Darktrace ha estat utilitzada per hospitals i proveïdors de serveis de salut per protegir la informació dels pacients i prevenir els atacs cibernètics.
+
+- **Sector de l'energia**: Darktrace ha estat adoptada per empreses d'energia per protegir els seus sistemes de control i xarxes contra les amenaces cibernètiques.
+
+- **Sector del govern**: Darktrace ha estat utilitzada per agències governamentals per protegir els seus sistemes i xarxes contra les amenaces cibernètiques.
+
+
+
 
 ### **Impacte ambiental**  
-- Elevat **consum energètic** pels centres de dades on s’analitzen els patrons.  
-- Dependència de servidors per a la monitorització constant.  
-- Generació de **residus electrònics** per mantenir la infraestructura actualitzada.
+Tot i que no hi ha informació directa sobre l'impacte mediambiental de Darktrace, es pot inferir que l'empresa pot tenir un **impacte indirecte** en el medi ambient a través de l'ús de la tecnologia i les seves operacions. Per exemple, l'empresa pot generar residus electrònics a través de la producció i l'ús dels seus productes i serveis. A més, es pot observar un elevat **consum energètic** pels centres de dades on s'analitzen els patrons, així com una dependència de servidors per a la monitorització constant. Això comporta també una generació de **residus electrònics** per mantenir la infraestructura actualitzada.
+
 
 ### **Propostes per minimitzar els impactes ambientals**  
 1. **Centres de dades verds**: Utilitzar energia renovable per reduir les emissions.  
@@ -61,7 +77,10 @@ La **intel·ligència artificial (IA)** ha emergit com una solució potent per m
 
 # **IBM Watson for Cybersecurity**
 
-![IBM Watson Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_Watson_Logo.png)
+<img src="img/IBM.png" alt="Darktrace Logo" width="170"/>
+
+
+
 
 ### **Les aplicacions de la IA**  
 IBM Watson utilitza **intel·ligència artificial** per millorar la seguretat informàtica mitjançant:  
