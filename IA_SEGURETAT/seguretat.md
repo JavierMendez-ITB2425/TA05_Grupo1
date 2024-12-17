@@ -83,11 +83,22 @@ Tot i que no hi ha informació directa sobre l'impacte mediambiental de Darktrac
 
 
 ### **Les aplicacions de la IA**  
-IBM Watson utilitza **intel·ligència artificial** per millorar la seguretat informàtica mitjançant:  
-- L’anàlisi de grans volums de **dades no estructurades**.  
-- Identificació d’amenaces mitjançant **processament de llenguatge natural**.  
-- Suport als analistes humans per **prioritzar incidents** de seguretat.  
-- Predicció de possibles ciberatacs amb anàlisis avançades.
+
+
+IBM Watson és una solució d'intel·ligència artificial desenvolupada per IBM que es basa en **l'aprenentatge automàtic i el processament del llenguatge natural per analitzar grans volums de dades**. Proporciona suport en la presa de decisions i ajuda a millorar l'eficiència en diferents sectors.
+
+Es caracteritza per les seves capacitats **d'anàlisi avançada** i **l'automatització de processos**, oferint solucions innovadores en la seguretat informàtica i altres àmbits crítics.
+
+- **Anàlisi de dades massives** per detectar patrons sospitosos i predir riscos.
+- **Millora de la presa de decisions** mitjançant la interpretació intel·ligent de la informació.
+- **Identificació proactiva d'amenaces** abans que es converteixin en incidents greus.
+- **Monitorització en temps real** de xarxes i sistemes per prevenir atacs.
+- **Suport en sectors crítics** com finances, salut i govern, protegint informació sensible.
+
+> "The combination of machine learning and AI enables organizations to uncover hidden threats and gain new insights into their security landscape."  
+> — **Rob Thomas**, Senior Vice President, IBM
+
+
 
 ```bash
 # Exemple d’ús de Watson en línia de comandes per identificar amenaces
@@ -96,26 +107,65 @@ curl -X POST "https://api.ibm.com/security/analyze" \
   -d '{"data": "logs"}'
 ```
 
-### **Impacte al sector**  
-IBM Watson ha tingut un impacte significatiu en la ciberseguretat:  
+### **Impacte en el sector**
 
-- **Augment de l’eficiència** dels analistes humans, ja que redueix el temps d’anàlisi.  
-- Millora de la **detecció predictiva** d’atacs complexos.  
-- Suport a sectors crítics com **finances, salut i administració pública**.  
-- Reducció del risc de **pèrdua de dades** i **fraus econòmics**.  
+IBM Watson ha tingut un impacte significatiu en el sector de la ciberseguretat, proporcionant solucions innovadores per abordar els reptes de la seguretat en l'era digital. Les seves aplicacions han revolucionat la manera en què les organitzacions detecten, responen i gestionen les amenaces cibernètiques.
+
+Es caracteritza per l’automatització de processos i l’anàlisi predictiva, permetent una resposta proactiva i efectiva a atacs avançats.
+
+- **Millora de la detecció de ciberamenaces**: Watson pot identificar atacs avançats i desconeguts mitjançant l’anàlisi de grans volums de dades, detectant patrons sospitosos abans que les amenaces es materialitzin.  
+- **Reducció del temps de resposta**: Automatitza l’anàlisi i redueix el temps de reacció davant d'incidents, minimitzant l'impacte dels atacs.  
+- **Suport als sectors crítics**: És especialment eficaç en sectors com **finances**, **salut** i **administració pública**, protegint dades sensibles i reduint riscos de frau econòmic.  
+- **Augment de l'eficiència**: Automatitza tasques rutinàries dels analistes humans, permetent focalitzar recursos en accions estratègiques de seguretat.  
+- **Millora de la presa de decisions**: Proporciona anàlisi i informació precisa per facilitar decisions informades en matèria de seguretat.  
+- **Facilitació de la col·laboració**: Fomenta una millor coordinació entre els equips de seguretat i altres departaments, millorant la resposta global als incidents.  
+
+En resum, IBM Watson ha establert un nou estàndard en la **gestió proactiva de ciberamenaces**, oferint una solució eficient i eficaç per a la detecció i resposta davant d’amenaces complexes.
+
+
+### **Sectors específics on treballa IBM Watson**
+
+IBM Watson ha estat adoptat en una àmplia varietat de sectors crítics gràcies a les seves capacitats avançades d’intel·ligència artificial i anàlisi de dades:
+
+- **Sector financer**:  
+  Protegeix bancs i institucions financeres mitjançant l'anàlisi de transaccions per detectar **fraus** i **comportaments anòmals**. Ajuda a garantir la seguretat de dades sensibles i a prevenir pèrdues econòmiques.
+
+- **Sector de la salut**:  
+  Ajuda hospitals i proveïdors de serveis sanitaris a protegir la **informació confidencial dels pacients** i a detectar atacs en temps real que podrien afectar els sistemes mèdics.
+
+- **Sector de l’energia**:  
+  Proporciona seguretat als sistemes de control i xarxes de distribució energètica, prevenint atacs que podrien afectar infraestructures crítiques com xarxes elèctriques.
+
+- **Sector governamental**:  
+  Ajuda a les **agències governamentals** a protegir les seves xarxes i dades contra atacs cibernètics dirigits, assegurant la seguretat de la informació estatal.
+
+- **Sector empresarial**:  
+  Millora la seguretat en corporacions multinacionals mitjançant la **monitorització en temps real** de les xarxes internes, protegint actius i dades corporatives.
+
+IBM Watson s’ha consolidat com una eina essencial en aquests sectors, ajudant a prevenir atacs, protegir dades crítiques i garantir la continuïtat de les operacions en un entorn digital cada vegada més complex.
+
+
 
 ---
 
 ### **Impacte ambiental**  
-- **Alt consum energètic** per l’entrenament i execució de models d’IA.  
-- Dependència de **centres de dades massius** amb emissions de carboni elevades.  
-- Increment de la demanda d’**equips informàtics** i de la seva refrigeració constant.  
+
+Tot i que no existeixen dades específiques sobre l’**impacte mediambiental** directe d’**IBM Watson**, es pot inferir que la seva activitat té un impacte **indirecte** degut a l’ús intensiu de **tecnologia** i **recursos**. L’entrenament i l’execució dels models d’**intel·ligència artificial** requereixen un **consum energètic elevat** a causa de l’ús constant de **centres de dades**, que consumeixen grans quantitats d’**energia** i contribueixen a les **emissions de carboni**. A més, la **dependència** d’aquests centres per a l’**anàlisi** i **monitorització** de dades en temps real incrementa la **petjada mediambiental**. Al mateix temps, la necessitat de mantenir i actualitzar la **infraestructura tecnològica** genera **residus electrònics**, com ara equips obsolets i components de maquinari que poden tenir un impacte negatiu si no són gestionats correctament.
 
 ---
 
-### **Propostes per minimitzar els impactes ambientals**  
-1. Implementar **serveis en el núvol verds** amb fonts d’energia renovables.  
-2. **Optimització de models d’IA** per reduir la potència de càlcul necessària.  
-3. Millorar els **sistemes de refrigeració** en centres de dades.  
-4. Promoure la **reutilització i reciclatge** de components electrònics.  
+### **Propostes per minimitzar els impactes ambientals**
+
+**IBM i la sostenibilitat**: IBM té plans ambiciosos per contribuir a la sostenibilitat del medi ambient amb una visió clara per a l’any **2030**. Aquests plans inclouen objectius específics per reduir l’impacte ambiental de les seves operacions i promoure pràctiques sostenibles. A continuació, es detallen alguns dels seus compromisos més destacats:
+
+- **Neutralitat de carboni**: IBM es compromet a assolir la **neutralitat de carboni** per al **2030**, garantint que no emetrà més gasos d’efecte hivernacle dels que pot absorbir o compensar.  
+- **Reducció del consum d’energia**: L’empresa té com a objectiu disminuir el seu **consum energètic** en un **35%** per al **2025**, en comparació amb els nivells del **2015**.  
+- **Ús d’energies renovables**: IBM es compromet a utilitzar **energies renovables** per cobrir almenys el **55%** del seu consum energètic per al **2025**.  
+- **Reducció de residus**: Té com a meta reduir la quantitat de **residus** generats en un **50%** per al **2025**, respecte als nivells del **2015**.  
+- **Reciclatge i reutilització**: IBM es compromet a **reciclar o reutilitzar** almenys el **75%** dels materials que utilitza en els seus productes i serveis.  
+- **Gestió de la cadena de subministrament**: Col·laborarà amb els seus **proveïdors** per reduir l’impacte ambiental de la **cadena de subministrament** i promoure pràctiques **sostenibles**.  
+- **Investigació i desenvolupament**: Continuarà invertint en **R+D** per crear **tecnologies** i **solucions** més sostenibles i eficients.  
+- **Educació i conscienciació**: IBM educarà i sensibilitzarà els seus **empleats**, **clients** i **comunitats** sobre la importància de la sostenibilitat i la protecció del **medi ambient**.
+
+Aquestes accions reflecteixen el compromís d’IBM per liderar amb exemple i avançar cap a un futur més **sostenible**.
 
